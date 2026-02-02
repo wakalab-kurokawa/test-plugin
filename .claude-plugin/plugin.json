@@ -1,0 +1,7 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "description": "プラグイン認識テスト用",
+  "author": { "name": "test" },
+  "skills": "./skills"
+}
