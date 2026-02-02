@@ -3,5 +3,5 @@
   "title": "Test Plugin",
   "description": "プラグイン認識テスト用",
   "category": "Utilities",
-  "source": "file:///Users/kurokawa/src/ai/test-plugin"
+  "source": "github:wakalab-kurokawa/test-plugin"
 }
